@@ -1,6 +1,6 @@
 <template>
   <div class="example">
-    <h2>content</h2>
+    <h2>c33333333333</h2>
   </div>
 </template>
 <script setup></script>
